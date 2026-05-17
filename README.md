@@ -1,2 +1,2 @@
-# 4weekchallengeolga
+# olgafitchallenge
 My first project on github
